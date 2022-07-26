@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**brunochikuji/brunochikuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hello, I’m a Software Engineer focused in Angular | Ionic | Python | Javascript and Typescript
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/brunochikuji">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunochikuji&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunochikuji&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunochikuji&theme=dark">
+  </div>
+  <h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=brunochikuji&theme=nord&column=4" >
+
